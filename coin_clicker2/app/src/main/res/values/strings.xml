@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coin Craze Mania</string>
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="restart_game">Restart Game</string>
+</resources>
